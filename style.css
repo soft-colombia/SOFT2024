@@ -12,7 +12,7 @@
     flex-grow: 1;
 }
 .menu-navegacion a {
-    color: blue;
+    color: red;
     text-decoration: none;
     display: block;
     padding: 10px;
@@ -21,7 +21,7 @@
     background-color: lightblue;
 }
 form {
-    background-color: red; /* White background for form */
+    background-color: blue  ; /* White background for form */
     padding: 20px;
     border-radius: 10px;
     text-align: center;
